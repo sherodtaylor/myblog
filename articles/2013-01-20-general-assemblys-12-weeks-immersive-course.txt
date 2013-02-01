@@ -1,0 +1,5 @@
+---
+title: General Assembly's 12 weeks Immersive Course
+date: 20/01/2013
+
+I just got accepted to the General Assembly Course. It is a 12 week course that teaches full stack web development. The course starts March 23, 2013 in the new SF chapter that is being built. I've been teaching my self web development for over a year now. Some of the technologies that I've been using are GIT, Ruby, Ruby on Rails, CSS, HTML, MySQL, ect. I'm a tinker at heart and love to play around with different tools. 
