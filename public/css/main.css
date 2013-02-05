@@ -120,3 +120,12 @@ nav li a {
   text-decoration: none;
 }
 
+pre {
+  border:1px dashed #E1E1E1;
+  color:#333344;
+  background:#FAFAFA;
+  font-family:monospace;
+  overflow:auto;
+  font-size:11px;
+  padding:0.5em;
+}
