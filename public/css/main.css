@@ -104,10 +104,13 @@ blockquote {
 body > footer {
   text-align: left;
   margin-left: 10px;
-	font-style: italic;
+  font-style: italic;
   font-size: 18px;
   color: #888;
+  float: left;
 }
+
+/* Nav Bar */
 
 nav li{
   display:inline;
