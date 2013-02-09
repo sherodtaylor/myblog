@@ -2,11 +2,11 @@
 title: Playing Around With Vim
 date: 04/02/2013
 
-<h3>The Introduction</h3>
+<h2>The Introduction</h2>
 
 I decided to play around with vim today. I am just warming up to it and so far I love it. This is my first time experiencing the power of vim as a text editor. Ever since I started programming I knew of it and tried it once. I hated it I wasn't introduced to it and taught the basics. My main text editor has always been Sublime. Its a great editor but I just want to mix it up a bit and expand my knowledge. I'm still a beginner and in the process of developing a good work flow.
 
-<h3>The Basics</h3>
+<h2>The Basics</h2>
 
 There are 3 different modes Normal, Insert and Visual.
 
