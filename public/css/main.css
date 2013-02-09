@@ -88,6 +88,22 @@ h1, h2, h3, h4 {
   margin: 0;
   font-weight: 600;
 }
+
+h1 {
+  font-size: 25px; 
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 15px;
+}
+
+h4 {
+
+}
 ul, li {
   list-style-type: none;
 }
@@ -115,13 +131,26 @@ body > footer {
 nav li{
   display:inline;
   font-family: 'Baskerville', Georgia, Times, serif;
-  font-size: 30px;
-
+  font-size: 40px;
+  margin: 20px;
 }
 
 nav li a {
   text-decoration: none;
 }
+
+nav li div {
+  margin: 0px;
+  display:inline;
+  float: left;
+}
+
+nav li div a {
+  text-decoration: none;
+
+}
+
+/* Code Block */
 
 pre {
   border:1px dashed #E1E1E1;
