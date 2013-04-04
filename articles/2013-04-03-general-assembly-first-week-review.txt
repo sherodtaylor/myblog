@@ -1,0 +1,39 @@
+---
+title: General Assembly First Week Review
+date: 03/04/2013
+
+<h2>Week 1</h2>
+
+
+<p>
+So here we are starting our second at <a href="http://www.ga.co">General Assembly</a> which has been amazing. This last week we have been dedicated to developing a solid foundation of Ruby before we get into Rails. 
+I have been teaching myself Ruby over the last year and I thought I had
+a pretty solid understanding of it but it really showed me how little I
+know. We have one instructer <a
+href="https://github.com/tronathan">Jonathan</a> which is a great
+instructor and is able to show us how to get things done. We also have
+two TA's <a href="https://github.com/sferik">Erik</a> who is the a
+manager of one of the top gems in the Ruby commmunity "Thor" and <a
+href="about.me/bridgpal">Anil</a>. They are a great instruction team and
+we have been learning a lot from them. </p>
+
+<p>
+This first week has been really heavy. We have been learning all about
+the basic building blocks of Ruby. Everything from Blocks to Instance
+Variables to using almost every method for every class in this language.
+Here at GA we have been typically spending all together over 12 hours a
+day just hacking away it code and I couldn't ask for more. They really
+tailor the course to everybodies needs. We are fortunate to be taught by
+such great instructors and they explain thoroughly computer science concepts
+and try to really prepare you for the real world. They don't just teach
+you Ruby they teach its background and the real concepts behind Object
+Oriented Languages.
+</p>
+
+<p>
+I'm coding is beginning to take over my life and I am so happy. To be
+honest this last week I have been dreaming about coding. I know this
+course may have been one of the greatest decisions in my life.
+</p>
+
+

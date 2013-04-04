@@ -1,0 +1,35 @@
+---
+title: Vim Revisted
+date: 03/04/2013
+
+I just had to start a new post on vim my favorite text editor in the
+world. I know that vim has a very steep learning curve and I'm glad that
+I have adopted it so early because it is saving me so much time. So far
+I have learned how to config vim and use all the different plugins. I am
+using <a href="https://github.com/carlhuda/janus">Janus</a> a vim
+customization with loads of different plugins. I don't use it straight
+out of the box. 
+
+<h2>.vimrc.before</h2>
+<pre>
+let mapleader = ","
+</pre>
+<p>
+I like to use that for the leader key and I have a few different
+plugins:
+</p>
+
+<ul>
+   <li>
+     <a href="https://github.com/tpope/vim-repeat">Repeat</a>
+   </li>
+   <li>
+     <a href="https://github.com/tpope/vim-commentary">Commentary</a>
+   </li>
+   <li>
+     <a href="https://github.com/scrooloose/nerdtree">Nerdtree</a>
+   </li>
+   <li>
+     <a href="https://github.com/Townk/vim-autoclose">Autoclose</a>
+   </li>
+</ul>
